@@ -1,4 +1,4 @@
 - Hi, I’m @EnviousOrb, I like playing videogames and programming.
-- I'm currently learning Game Development at Full Sail University, going for my bachelors.
+- I'm an Alumni at Full Sail University, with a bachelors in Game Development
 - For Contact Info, I'm available through E-mail at:
 - sbraveheart05@gmail.com
